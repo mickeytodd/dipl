@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Passcode</string>
+    <string name="password">Password</string>
+    <string name="scan">Scan code</string>
+    <string name="login">Login</string>
+    <string name="time">Time</string>
+    <string name="email">E-mail</string>
+    <string name="noinfo">No Info</string>
+    <string name="exit">EXIT</string>
+</resources>
